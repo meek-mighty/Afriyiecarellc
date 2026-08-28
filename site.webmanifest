@@ -1,0 +1,13 @@
+{
+  "name": "Afriyie Care",
+  "short_name": "Afriyie Care",
+  "description": "In-home caregiving, personal care, and companion care for seniors in Rochester, NY.",
+  "icons": [
+    { "src": "images/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "images/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#17281f",
+  "background_color": "#fbf7ef",
+  "display": "standalone",
+  "start_url": "/"
+}
